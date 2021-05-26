@@ -1,0 +1,10 @@
+.sidebar {
+  width: 30%;
+  float: left;
+  background-color: blue;
+}
+
+.band {
+  float: right;
+  padding: 100px;
+}
