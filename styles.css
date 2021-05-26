@@ -1,4 +1,6 @@
 .sidebar {
+  padding: 25px ;
+  margin: 25px;
   width: 30%;
   float: left;
   background-color: blue;
